@@ -18,6 +18,6 @@ This project explores the effectiveness of instruction tuning in biomedical lang
 
 2. **GPT-Medium**
    - **Model Link:** [GPT-Medium Model](https://huggingface.co/openai-community/gpt2-medium)
-   - **Description:** GPT-Medium, a variant of GPT2, is also employed in this project. It is trained on a medium-sized corpus, enhancing its capabilities for biomedical language understanding.
+   - **Description:** GPT-Medium, a variant of GPT2, is also employed in this project. GPT-2 Medium is the 355M parameter version of GPT-2, a transformer-based language model created and released by OpenAI. The model is pretrained on the English language using a causal language modeling (CLM) objective, enabling it to generate coherent and contextually relevant text based on given prompts. It is well-suited for various natural language processing tasks, making it a valuable asset for biomedical language understanding in this project.
 
 
