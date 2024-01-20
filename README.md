@@ -36,8 +36,8 @@ This project explores the effectiveness of instruction tuning in biomedical lang
    - **Model Link:** [Mistral-7B-Instruct-v0.2  Model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
    - **Description:** The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an improved instruct fine-tuned version of Mistral-7B-Instruct-v0.1.
   
-7. **OpenChat-3.5-0106**
-   - **Model Link:** [OpenChat-3.5-0106  Model](https://huggingface.co/openchat/openchat-3.5-0106)
+7. **OpenChat 3.5 1210**
+   - **Model Link:** [OpenChat 3.5 1210  Model](https://huggingface.co/openchat/openchat-3.5-0106)
    - **Description:** OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning.
 
 
