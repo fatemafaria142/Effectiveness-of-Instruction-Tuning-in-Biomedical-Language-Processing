@@ -28,12 +28,17 @@ This project explores the effectiveness of instruction tuning in biomedical lang
    - **Model Link:** [TinyLlama-1.1B-Chat-v1.0  Model](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
    - **Description:** The TinyLlama project aims to pretrain a 1.1B Llama model on 3 trillion tokens. 
 
-4. **Starling-LM-7B-alpha**
+5. **Starling-LM-7B-alpha**
    - **Model Link:** [Starling-LM-7B-alpha Model](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha)
    - **Description:** Starling-7B, an open large language model (LLM) trained by Reinforcement Learning from AI Feedback (RLAIF). 
 
-4. **Mistral-7B-Instruct-v0.2**
+6. **Mistral-7B-Instruct-v0.2**
    - **Model Link:** [Mistral-7B-Instruct-v0.2  Model](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
    - **Description:** The Mistral-7B-Instruct-v0.2 Large Language Model (LLM) is an improved instruct fine-tuned version of Mistral-7B-Instruct-v0.1.
+  
+7. **OpenChat-3.5-0106**
+   - **Model Link:** [OpenChat-3.5-0106  Model](https://huggingface.co/openchat/openchat-3.5-0106)
+   - **Description:** OpenChat is an innovative library of open-source language models, fine-tuned with C-RLFT - a strategy inspired by offline reinforcement learning.
+
 
 
